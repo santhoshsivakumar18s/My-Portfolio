@@ -28,6 +28,7 @@ const Navbar = () => {
       <div className={`navbar-links ${mobileOpen ? 'mobile-open' : ''}`}>
         <a href="#home" onClick={(e) => { e.preventDefault(); scrollTo('home'); }}>Home</a>
         <a href="#about" onClick={(e) => { e.preventDefault(); scrollTo('about'); }}>About Me</a>
+        <a href="#education" onClick={(e) => { e.preventDefault(); scrollTo('education'); }}>Education</a>
         <a href="#works" onClick={(e) => { e.preventDefault(); scrollTo('works'); }}>My Works</a>
         <a href="#skills" onClick={(e) => { e.preventDefault(); scrollTo('skills'); }}>Skills</a>
         <a href="#contact" onClick={(e) => { e.preventDefault(); scrollTo('contact'); }}>Contact</a>

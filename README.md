@@ -73,10 +73,6 @@ npm start
 
 http://localhost:3000
 
-## Project Structure
-
-![alt text](image-1.png)
-
 ### Deployment
 
 The website is deployed using Vercel. Updates pushed to the connected GitHub repository are automatically deployed.

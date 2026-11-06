@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+# Santhosh's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A personal portfolio website showcasing my skills, projects, technical interests, and development journey in software engineering and AI
 
-## Available Scripts
+# Live Website: https://my-portfolio-rho-lilac-66.vercel.app/
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+This portfolio serves as a central place to explore my technical skills, projects, experience, and interests. It highlights my work in software development, Artificial Intelligence, and Data Science.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Clean and responsive user interface
 
-### `npm test`
+About Me section
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Technical skills and technologies
 
-### `npm run build`
+Featured projects
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Education and experience
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Contact information and social links
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+                Category                   Technologies                                   
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+                Frontend                    React.js
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+                Styling                       CSS3
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+                Programming                 JavaScript
 
-## Learn More
+                Version Control             Git, GitHub
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+                Deployment                   Vercel
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Follow these steps to run the project locally.
 
-### Analyzing the Bundle Size
+### Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Node.js
 
-### Making a Progressive Web App
+npm
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Git
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Installation
+
+1.Clone the repository:
+
+git clone YOUR_GITHUB_REPOSITORY_URL
+
+2.Navigate to the project directory:
+
+cd portfolio-app
+
+3.Install dependencies:
+
+npm install
+
+4.Start the development server:
+
+npm start
+
+5.Open your browser and visit:
+
+http://localhost:3000
+
+## Project Structure
+
+```![alt text](image.png)
+```
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+The website is deployed using Vercel. Updates pushed to the connected GitHub repository are automatically deployed.
 
-### `npm run build` fails to minify
+### Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+GitHub: santhoshsivakumar18s
+
+LinkedIn: https://www.linkedin.com/in/s-santhosh-3ba30636b/
+
+Portfolio: https://my-portfolio-rho-lilac-66.vercel.app/
+
+
+
+Designed and developed by Santhosh.
